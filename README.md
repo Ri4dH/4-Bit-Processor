@@ -1,4 +1,4 @@
-#4-Bit-Processor
+# 4-Bit-Processor
 
 This project is a functional 4-bit CPU architecture built from the ground up using fundamental logic gates in the Digital simulator. Developed for CIS 310 (Computer Organization) at the University of Michigan–Dearborn, it simulates a complete fetch-decode-execute cycle by coordinating hardware-level data flow through custom-designed components including a 4-bit ALU, Program Counter, and Instruction Memory.
 
